@@ -25,7 +25,7 @@ Realizzazione di un "Industrial Lab" con Arduino Q
 
 | Repository | Descrizione | Area |
 |---|---|---|
-| [UFS03 Networking](https://github.com/profgiagnotti/networking-labs) | Simulazioni di reti e AI per troubleshooting | 🌐 Networking |
+| [UFS03 Networking](https://github.com/profgiagnotti/) | Simulazioni di reti e AI per troubleshooting | 🌐 Networking |
 | [UFS05 I linguaggi di programmazione per le applicazioni di automazione industriale](https://github.com/profgiagnotti/tecnologia-labs) | Python per le tecnologie industriali | ⚙️ Python |
 | [UFS 04 — Basi di programmazione in Java e strumenti per lo sviluppo](https://github.com/profgiagnotti/cheatsheets) | Basi di programmazione | 💻 JAVA |
 | [AI & Robotics for Automation Specialist - Project Work](https://github.com/profgiagnotti/cyber-labs) | Industrial LAB | 🤖 AI & Robotics con Arduino UNO-Q |
