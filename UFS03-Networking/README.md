@@ -38,8 +38,8 @@ UFS03 - Networking/
 
 | Laboratorio | Lezione | Argomento | Tool | Livello |
 |---|---|---|---|---|
-| [Piccola rete](./lezione1.md) | Lezione-tutte | costruzione di una rete base, configurazione iniziale e e prima metodologia diagnostica con IA | Packet Tracer | ⭐ Base |
-
+| [Prima rete](./lezione1.md) | Lezione-01 | costruzione di una rete base, configurazione iniziale e prima metodologia diagnostica con IA | Packet Tracer | ⭐ Base |
+| [Piccola rete](./lezione2.md) | Lezione-02 | costruzione di una rete LAN Ethernet, configurazione iniziale e diagnosi con IA | Packet Tracer | ⭐ Base |
 
 ---
 
