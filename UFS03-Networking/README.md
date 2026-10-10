@@ -38,8 +38,9 @@ UFS03 - Networking/
 
 | Laboratorio | Lezione | Argomento | Tool | Livello |
 |---|---|---|---|---|
-| [Prima rete](./lezione1.md) | Lezione-01 | costruzione di una rete base, configurazione iniziale e prima metodologia diagnostica con IA | Packet Tracer | ⭐ Base |
-| [Seconda rete](./lezione2.md) | Lezione-02 | costruzione di una rete LAN Ethernet, configurazione iniziale e diagnosi con IA | Packet Tracer | ⭐ Base |
+| [Lab lezione 1 - Prima rete](./lezione1.md) | Lezione-01 | costruzione di una rete base, configurazione iniziale e prima metodologia diagnostica con IA | Packet Tracer | ⭐ Base |
+| [Lab lezione 1 - Seconda rete](./lezione2.md) | Lezione-02 | costruzione di una rete LAN Ethernet, configurazione iniziale e diagnosi con IA | Packet Tracer | ⭐ Base |
+| [Lab lezione 3 - Terza rete](./lezione3.md) | Lezione-02 | progettare, configurare e verificare un piano IPv4, applicare subnetting/VLSM e svolgere troubleshooting con fault controllati e supporto dell'IA. | Packet Tracer | ⭐ Base |
 
 ---
 
