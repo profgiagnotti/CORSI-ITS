@@ -43,6 +43,8 @@ UFS03 - Networking/
 | [Lab lezione 3 - Terza rete](./lezione3.md) | Lezione-03 | progettare, configurare e verificare un piano IPv4, applicare subnetting/VLSM e svolgere troubleshooting con fault controllati e supporto dell'IA. | Packet Tracer | ⭐ Base |
 | [Lab lezione 4 - Quarta rete](./lezione4.md) | Lezione-04 | progettare, configurare e verificare una rete moderna con IPv6 e diagnosi con IA | Packet Tracer | ⭐⭐ Intermedio |
 | [Lab lezione 5 - Quinta rete](./lezione5.md) | Lezione-05 | VLAN, Trunk, EtherChannel, CDP e LLDP: progettare e diagnosticare lo switching Layer 2 svolgere troubleshooting con fault controllati e supporto dell'IA. | Packet Tracer | ⭐⭐ Intermedio |
+| [Lab lezione 6 - Sesta rete](./lezione6.md) | Lezione-06 | Spanning Tree e troubleshooting Layer 2 svolgere troubleshooting con fault controllati e supporto dell'IA. | Packet Tracer | ⭐⭐ Intermedio |
+| [Lab lezione 7 - Settima rete](./lezione7.md) | Lezione-07 | Routing, NAT e WAN e svolgere troubleshooting con fault controllati e supporto dell'IA. | Packet Tracer | ⭐⭐ Intermedio |
 
 ---
 
