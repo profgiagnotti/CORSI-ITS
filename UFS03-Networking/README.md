@@ -47,6 +47,7 @@ UFS03 - Networking/
 | [Lab lezione 7 - Settima rete](./lezione7.md) | Lezione-07 | Routing, NAT e WAN e svolgere troubleshooting con fault controllati e supporto dell'IA. | Packet Tracer | ⭐⭐ Intermedio |
 | [Lab lezione 8 - Ottava rete](./lezione8.md) | Lezione-08 | DHCP-TCP-UDP controllare il traffico in rete con fault controllati e supporto dell'IA. | Packet Tracer | ⭐⭐ Intermedio |
 | [Lab lezione 9 - Nona rete](./lezione9.md) | Lezione-09 | WiFi e amministrazione con SSH con fault controllati e supporto dell'IA. | Packet Tracer | ⭐⭐⭐ Avanzato |
+| [Lab lezione 10 - Decima rete](./lezione10.md) | Lezione-10 | Virtualizzazione, QoS, TFTP/FTP e troubleshooting con AI. | Packet Tracer | ⭐⭐⭐ Avanzato |
 
 ---
 
