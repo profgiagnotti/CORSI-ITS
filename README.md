@@ -9,14 +9,7 @@ Teoria approfondita + laboratori pratici su:
 ## 🌐 UFS03 Networking
 Dall'introduzione al Networking fino all'mpiego di strumenti avanzati di IA per la ricerca guasti nelle reti.
 
-## ⚙️ UFS05 I linguaggi di programmazione ad alto livello per le applicazioni di automazione industriale
-Python per l'integrazione di sistemi di automazione con tecnologie IoT e reti industriali;
 
-## 💻 UFS 04 — Basi di programmazione in Java e strumenti per lo sviluppo
-Dai fondamenti di JAVA fino alla programmazione concorrente
-
-## 🤖 AI & Robotics for Automation Specialist - Project Work
-Realizzazione di un "Industrial Lab" con Arduino Q
 
 
 ---
@@ -26,9 +19,7 @@ Realizzazione di un "Industrial Lab" con Arduino Q
 | Repository | Descrizione | Area |
 |---|---|---|
 | [UFS03 Networking](https://github.com/profgiagnotti/CORSI-ITS/blob/main/UFS03-Networking/README.md) | Simulazioni di reti e AI per troubleshooting | 🌐 Networking |
-| [UFS05 I linguaggi di programmazione per le applicazioni di automazione industriale](https://github.com/profgiagnotti/) | Python per le tecnologie industriali | ⚙️ Python |
-| [UFS 04 — Basi di programmazione in Java e strumenti per lo sviluppo](https://github.com/profgiagnotti/) | Basi di programmazione | 💻 JAVA |
-| [AI & Robotics for Automation Specialist - Project Work](https://github.com/profgiagnotti/) | Industrial LAB | 🤖 AI & Robotics con Arduino UNO-Q |
+
 
 ---
 
