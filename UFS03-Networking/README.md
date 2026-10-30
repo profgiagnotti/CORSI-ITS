@@ -38,17 +38,17 @@ UFS03 - Networking/
 
 | Laboratorio | Lezione | Argomento | Tool | Livello |
 |---|---|---|---|---|
-| [Lab lezione 1 - Prima rete](./lezione1.md) | Lezione-01 | costruzione di una rete base, configurazione iniziale e prima metodologia diagnostica con IA | Packet Tracer | ⭐ Base |
-| [Lab lezione 1 - Seconda rete](./lezione2.md) | Lezione-02 | costruzione di una rete LAN Ethernet, configurazione iniziale e diagnosi con IA | Packet Tracer | ⭐ Base |
-| [Lab lezione 3 - Terza rete](./lezione3.md) | Lezione-03 | progettare, configurare e verificare un piano IPv4, applicare subnetting/VLSM e svolgere troubleshooting con fault controllati e supporto dell'IA. | Packet Tracer | ⭐ Base |
-| [Lab lezione 4 - Quarta rete](./lezione4.md) | Lezione-04 | progettare, configurare e verificare una rete moderna con IPv6 e diagnosi con IA | Packet Tracer | ⭐⭐ Intermedio |
-| [Lab lezione 5 - Quinta rete](./lezione5.md) | Lezione-05 | VLAN, Trunk, EtherChannel, CDP e LLDP: progettare e diagnosticare lo switching Layer 2 svolgere troubleshooting con fault controllati e supporto dell'IA. | Packet Tracer | ⭐⭐ Intermedio |
-| [Lab lezione 6 - Sesta rete](./lezione6.md) | Lezione-06 | Spanning Tree e troubleshooting Layer 2 svolgere troubleshooting con fault controllati e supporto dell'IA. | Packet Tracer | ⭐⭐ Intermedio |
-| [Lab lezione 7 - Settima rete](./lezione7.md) | Lezione-07 | Routing, NAT e WAN e svolgere troubleshooting con fault controllati e supporto dell'IA. | Packet Tracer | ⭐⭐ Intermedio |
-| [Lab lezione 8 - Ottava rete](./lezione8.md) | Lezione-08 | DHCP-TCP-UDP controllare il traffico in rete con fault controllati e supporto dell'IA. | Packet Tracer | ⭐⭐ Intermedio |
-| [Lab lezione 9 - Nona rete](./lezione9.md) | Lezione-09 | WiFi e amministrazione con SSH con fault controllati e supporto dell'IA. | Packet Tracer | ⭐⭐⭐ Avanzato |
-| [Lab lezione 10 - Decima rete](./lezione10.md) | Lezione-10 | Virtualizzazione, QoS, TFTP/FTP e troubleshooting con AI. | Packet Tracer | ⭐⭐⭐ Avanzato |
-| [Lab lezione 11 - Undicesima rete](./lezione11.md) | Lezione-11 | Networking security e troubleshooting con AI. | Packet Tracer | ⭐⭐⭐ Avanzato |
+| [Lab lezione 1 - Prima rete](./lezione1.md) | [Lezione-01](https://profgiagnotti.altervista.org/architetture-di-rete-aziendali/) | costruzione di una rete base, configurazione iniziale e prima metodologia diagnostica con IA | Packet Tracer | ⭐ Base |
+| [Lab lezione 1 - Seconda rete](./lezione2.md) | [Lezione-02](https://profgiagnotti.altervista.org/come-funziona-davvero-una-lan/) | costruzione di una rete LAN Ethernet, configurazione iniziale e diagnosi con IA | Packet Tracer | ⭐ Base |
+| [Lab lezione 3 - Terza rete](./lezione3.md) | [Lezione-03](https://profgiagnotti.altervista.org/come-progettare-una-rete-senza-sprecare-indirizzi/) | progettare, configurare e verificare un piano IPv4, applicare subnetting/VLSM e svolgere troubleshooting con fault controllati e supporto dell'IA. | Packet Tracer | ⭐ Base |
+| [Lab lezione 4 - Quarta rete](./lezione4.md) | [Lezione-04](https://profgiagnotti.altervista.org/ipv6-progettare-e-configurare-una-rete-moderna/) | progettare, configurare e verificare una rete moderna con IPv6 e diagnosi con IA | Packet Tracer | ⭐⭐ Intermedio |
+| [Lab lezione 5 - Quinta rete](./lezione5.md) | [Lezione-05](https://profgiagnotti.altervista.org/vlan-come-progettare-reti-lan-virtuali/) | VLAN, Trunk, EtherChannel, CDP e LLDP: progettare e diagnosticare lo switching Layer 2 svolgere troubleshooting con fault controllati e supporto dell'IA. | Packet Tracer | ⭐⭐ Intermedio |
+| [Lab lezione 6 - Sesta rete](./lezione6.md) | [Lezione-06](https://profgiagnotti.altervista.org/spanning-tree-e-troubleshooting-layer-2-progettare-ridondanza-e-diagnosticare-i-loop/) | Spanning Tree e troubleshooting Layer 2 svolgere troubleshooting con fault controllati e supporto dell'IA. | Packet Tracer | ⭐⭐ Intermedio |
+| [Lab lezione 7 - Settima rete](./lezione7.md) | [Lezione-07](https://profgiagnotti.altervista.org/routing-nat-e-wan-come-collegare-reti-diverse-e-diagnosticare-i-percorsi-ip/) | Routing, NAT e WAN e svolgere troubleshooting con fault controllati e supporto dell'IA. | Packet Tracer | ⭐⭐ Intermedio |
+| [Lab lezione 8 - Ottava rete](./lezione8.md) | [Lezione-08](https://profgiagnotti.altervista.org/dhcp-dns-tcp-udp-come-configurare-osservare-capire-il-traffico/) | DHCP-TCP-UDP controllare il traffico in rete con fault controllati e supporto dell'IA. | Packet Tracer | ⭐⭐ Intermedio |
+| [Lab lezione 9 - Nona rete](./lezione9.md) | [Lezione-09](https://profgiagnotti.altervista.org/wi-fi-sicurezza-e-ssh-come-progettare-proteggere-e-amministrare-una-rete-moderna/) | WiFi e amministrazione con SSH con fault controllati e supporto dell'IA. | Packet Tracer | ⭐⭐⭐ Avanzato |
+| [Lab lezione 10 - Decima rete](./lezione10.md) | [Lezione-10](https://profgiagnotti.altervista.org/virtualizzazione-qos-tftp-e-ftp-come-progettare-il-traffico-e-gestire-i-servizi-di-rete/) | Virtualizzazione, QoS, TFTP/FTP e troubleshooting con AI. | Packet Tracer | ⭐⭐⭐ Avanzato |
+| [Lab lezione 11 - Undicesima rete](./lezione11.md) | [Lezione-11](https://profgiagnotti.altervista.org/network-security-intelligenza-artificiale-e-troubleshooting-dalla-diagnosi-alla-risoluzione/) | Networking security e troubleshooting con AI. | Packet Tracer | ⭐⭐⭐ Avanzato |
 
 ---
 
