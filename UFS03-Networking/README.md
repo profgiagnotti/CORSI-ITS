@@ -39,7 +39,7 @@ UFS03 - Networking/
 | Laboratorio | Lezione | Argomento | Tool | Livello |
 |---|---|---|---|---|
 | [Lab lezione 1 - Prima rete](./lezione1.md) | [Lezione-01](https://profgiagnotti.it/architetture-di-rete-aziendali/) | costruzione di una rete base, configurazione iniziale e prima metodologia diagnostica con IA | Packet Tracer | ⭐ Base |
-| [Lab lezione 1 - Seconda rete](./lezione2.md) | [Lezione-02](https://profgiagnotti.it/come-funziona-davvero-una-lan/) | costruzione di una rete LAN Ethernet, configurazione iniziale e diagnosi con IA | Packet Tracer | ⭐ Base |
+| [Lab lezione 2 - Seconda rete](./lezione2.md) | [Lezione-02](https://profgiagnotti.it/come-funziona-davvero-una-lan/) | costruzione di una rete LAN Ethernet, configurazione iniziale e diagnosi con IA | Packet Tracer | ⭐ Base |
 | [Lab lezione 3 - Terza rete](./lezione3.md) | [Lezione-03](https://profgiagnotti.it/come-progettare-una-rete-senza-sprecare-indirizzi/) | progettare, configurare e verificare un piano IPv4, applicare subnetting/VLSM e svolgere troubleshooting con fault controllati e supporto dell'IA. | Packet Tracer | ⭐ Base |
 | [Lab lezione 4 - Quarta rete](./lezione4.md) | [Lezione-04](https://profgiagnotti.it/ipv6-progettare-e-configurare-una-rete-moderna/) | progettare, configurare e verificare una rete moderna con IPv6 e diagnosi con IA | Packet Tracer | ⭐⭐ Intermedio |
 | [Lab lezione 5 - Quinta rete](./lezione5.md) | [Lezione-05](https://profgiagnotti.it/vlan-come-progettare-reti-lan-virtuali/) | VLAN, Trunk, EtherChannel, CDP e LLDP: progettare e diagnosticare lo switching Layer 2 svolgere troubleshooting con fault controllati e supporto dell'IA. | Packet Tracer | ⭐⭐ Intermedio |

@@ -9,7 +9,8 @@ Teoria approfondita + laboratori pratici su:
 ## 🌐 UFS03 Networking
 Dall'introduzione al Networking fino all'mpiego di strumenti avanzati di IA per la ricerca guasti nelle reti.
 
-
+## 💻 UFS04 JAVA
+Dall'introduzione a JAVA fino all'impiego di strumenti di testing debugging e logging.
 
 
 ---
@@ -18,7 +19,8 @@ Dall'introduzione al Networking fino all'mpiego di strumenti avanzati di IA per 
 
 | Repository | Descrizione | Area |
 |---|---|---|
-| [UFS03 Networking](https://github.com/profgiagnotti/CORSI-ITS/blob/main/UFS03-Networking/README.md) | Simulazioni di reti e AI per troubleshooting | 🌐 Networking |
+| [UFS03 Networking](./UFS03-Networking/README.md) | Simulazioni di reti e AI per troubleshooting | 🌐 Networking |
+| [UFS04 JAVA](./UFS04-JAVA/README.md) | Programmazione avanzata JAVA | 💻 JAVA |
 
 
 ---
