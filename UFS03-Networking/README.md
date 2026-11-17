@@ -52,6 +52,11 @@ UFS03 - Networking/
 
 ---
 
+> 📦 Nella stessa cartella sono disponibili i file `.pkt e .pka`: <br>
+[PKT dedicato alla lezione 5](./etherchannel.pkt)<br>
+
+---
+
 ## 🤝 Come contribuire
 
 Hai trovato un errore o vuoi aggiungere un laboratorio?
