@@ -52,7 +52,7 @@ UFS03 - Networking/
 
 ---
 
-> 📦 Nella stessa cartella sono disponibili i file `.pkt relativi alle lezioni: <br>
+> 📦 Nella stessa cartella sono disponibili i file .pkt relativi alle lezioni: <br>
 
 [PKT dedicato alla lezione 1 - rete base](./etherchannel.pkt)<br>
 [PKT dedicato alla lezione 2 - LAN base](./etherchannel.pkt)<br>
