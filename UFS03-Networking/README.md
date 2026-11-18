@@ -54,9 +54,9 @@ UFS03 - Networking/
 
 > 📦 Nella stessa cartella sono disponibili i file .pkt relativi alle lezioni: <br>
 
-[PKT dedicato alla lezione 1 - rete base](./etherchannel.pkt)<br>
-[PKT dedicato alla lezione 2 - LAN base](./etherchannel.pkt)<br>
-[PKT dedicato alla lezione 3 - IPv4 e subnetting](./etherchannel.pkt)<br>
+[PKT dedicato alla lezione 1 - rete base](./Lezione1_Rete_Base.pkt)<br>
+[PKT dedicato alla lezione 2 - LAN base](./Lezione2_Lan_Base.pkt)<br>
+[PKT dedicato alla lezione 3 - IPv4 e subnetting](./Lezione3_IPv4_subnetting.pkt)<br>
 [PKT dedicato alla lezione 4 - IPv6 dual stack](./Lezione4_rete_dual_stack.pkt)<br>
 [PKT dedicato alla lezione 5 - Etherchannel](./etherchannel.pkt)<br>
 
