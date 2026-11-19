@@ -58,7 +58,8 @@ UFS03 - Networking/
 [PKT dedicato alla lezione 2 - LAN base](./Lezione2_Lan_Base.pkt)<br>
 [PKT dedicato alla lezione 3 - IPv4 e subnetting](./Lezione3_IPv4_subnetting.pkt)<br>
 [PKT dedicato alla lezione 4 - IPv6 dual stack](./Lezione4_rete_dual_stack.pkt)<br>
-[PKT dedicato alla lezione 5 - Etherchannel](./etherchannel.pkt)<br>
+[PKT dedicato alla lezione 5 - Etherchannel](./Lezione5_etherchannel.pkt)<br>
+[PKT dedicato alla lezione 6 - Spanning Tree Protocol](./Lezione6.pkt)<br>
 
 ---
 
